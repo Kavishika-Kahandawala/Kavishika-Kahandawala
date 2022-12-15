@@ -4,7 +4,7 @@
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
-I'm also in Gitlab at https://gitlab.com/Kavishika_Kahandawala
+I'm also in GitLab at https://gitlab.com/Kavishika_Kahandawala
 <!---
 Kavishika-Kahandawala/Kavishika-Kahandawala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
