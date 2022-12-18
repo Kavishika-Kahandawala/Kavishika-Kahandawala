@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kavishika-Kahandawala
 - 👀 I’m interested in playing video games
 - 🌱 I’m currently an undergratuate at SLIIT
-<!--- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+<!--- - 💞️ I’m looking to collaborate on ...  --->
+- 📫 Visit My Portfolio at https://kavishika-kahandawala.github.io/
 
 I'm also in GitLab at https://gitlab.com/Kavishika_Kahandawala
 <!---
