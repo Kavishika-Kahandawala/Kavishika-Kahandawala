@@ -4,7 +4,7 @@
 - 📫 While you are here, Visit My Portfolio at https://kavishika-kahandawala.github.io/
 <!--- - 💞️ I’m looking to collaborate on ...  --->
 
-![gitlab-original](https://user-images.githubusercontent.com/25774028/209058357-6f5dc293-1fe7-4b46-ba7f-88ab519cf7bf.svg)
+<img src="https://user-images.githubusercontent.com/25774028/209058357-6f5dc293-1fe7-4b46-ba7f-88ab519cf7bf.svg" width="20%">
       
 I'm also in GitLab at https://gitlab.com/Kavishika_Kahandawala
 <!---
