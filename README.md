@@ -9,5 +9,3 @@
 Kavishika-Kahandawala/Kavishika-Kahandawala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br>
-If you wanna know my interests, well it's most of time playing video games <img src="https://user-images.githubusercontent.com/25774028/209061186-5d7369e9-eefd-43fa-a735-e583a84d624d.png" width="20px">
