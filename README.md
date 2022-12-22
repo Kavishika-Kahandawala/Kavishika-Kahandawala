@@ -1,5 +1,5 @@
 👋 Hi, I’m @Kavishika-Kahandawala <br>
-🌱 I’m currently an undergratuate at SLIIT <br>
+🌱 I’m currently an undergratuate at SLIIT on, BSc.(Hons) Computer Networking <br>
 📫 While you are here, Visit My Portfolio at https://kavishika-kahandawala.github.io/ <br>
 
 <br>
