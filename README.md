@@ -1,5 +1,5 @@
 👋 Hi, I’m @Kavishika-Kahandawala <br>
-🌱 I’m currently an undergratuate at SLIIT on, BSc.(Hons) Computer Networking <br>
+🌱 I’m currently an undergratuate at SLIIT on, BSc.(Hons) Computer Science and Software Engineering <br>
 📫 While you are here, Visit My Portfolio at https://kavishika-kahandawala.github.io/ (old)<br>
 
 Psss... I'm moving to netlify as it supports features for most of my new projects. Hosted at https://kavishika-kahandawala.netlify.app/
