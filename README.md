@@ -2,7 +2,7 @@
 🌱 I’m currently an undergratuate at SLIIT on, BSc.(Hons) Computer Science and Software Engineering <br>
 📫 While you are here, Visit My Portfolio at https://kavishika-kahandawala.github.io/ (old)<br>
 
-Psss... I'm moving to netlify as it supports features for most of my new projects. Hosted at https://kavishika-kahandawala.netlify.app/
+Psss... I'm moving to netlify as it supports more features for my new projects. Hosted at https://kavishika-kahandawala.netlify.app/
 
 <br>
 <a href="https://gitlab.com/Kavishika_Kahandawala"><img src="https://user-images.githubusercontent.com/25774028/209058357-6f5dc293-1fe7-4b46-ba7f-88ab519cf7bf.svg" width="20px"></a> I'm also in GitLab at https://gitlab.com/Kavishika_Kahandawala <br>
