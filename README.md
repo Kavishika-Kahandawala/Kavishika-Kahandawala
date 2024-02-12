@@ -1,4 +1,5 @@
-👋 Hi, I’m @Kavishika-Kahandawala <br>
+## Hey, I’m Kavishika Kahandawala 👋 
+
 🌱 I’m currently an undergratuate at SLIIT on, BSc.(Hons) Computer Science and Software Engineering <br>
 📫 While you are here, Visit My Portfolio at https://kavishika-kahandawala.netlify.app/
 <br>
