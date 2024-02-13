@@ -59,7 +59,7 @@ At my free time I'll be probably using one of these :)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
 [![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)](https://www.ubisoft.com/en-us/)
 
-or following in work-time ( Don't worry, I never pass deadlines xd ) 
+or following, in work-time ( Don't worry, I never pass deadlines xd ) 
 
 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/)
 [![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/)
