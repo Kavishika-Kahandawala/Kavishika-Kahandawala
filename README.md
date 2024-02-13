@@ -67,7 +67,7 @@ or even in work-time ( Don't worry, I never pass deadlines xd )
 
 <br>
 
-# My socials (I rarely talks though 🙂)
+# My socials (I rarely talk though 🙂)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavishika-k-947b54219)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/KahandawalaKALK)
