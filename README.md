@@ -3,11 +3,11 @@
 I'm a Kavishika Kahandawala, someone passionate at coding new stuff. (Maybe that's why I do solo projects in my free time xd).
 
 Not only in coding, I am good at  UI/ UX side too. 
-> ( Fun fact: I was a motion graphic designer back then with blender and After effects, and made customized stream layouts for streamers for free as a hobby. Eventhough I don't do them now, pretty sure still can do them 😋) 
+> ( Fun fact: I was a motion graphic designer back then with blender and After effects, and made customized stream layouts for streamers for free as a hobby. Even though I don't do them now, pretty sure still can do them 😋) 
 
 
 <br>
-Yes, you may not see my all repos here, coz some are private. But can see the contributions on the chart
+Yes, you may not see my all repos here, coz some are private. But can see the contributions in the chart
 
 <br>
 
