@@ -11,7 +11,7 @@ Yes, you may not see my all repos here, coz some are private. But can see the co
 
 <br>
 
-# Tech Stack
+# Tech Stack ⌨️
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
